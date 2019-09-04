@@ -1,0 +1,9 @@
+plotnine
+emoji==0.5.3
+pandas
+numpy
+pythainlp==2.0.6
+tqdm
+matplotlib
+seaborn
+fastai
