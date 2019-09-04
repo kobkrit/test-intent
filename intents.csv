@@ -1,0 +1,876 @@
+﻿text,class
+แสดงบัตรสุขภาพ,user_ask_health_card
+แสดงบัตรเจ็บป่วย,user_ask_health_card
+แสดงบัตร,user_ask_health_card
+ขอบัตรสุขภาพ,user_ask_health_card
+ขอบัตรเจ็บป่วย,user_ask_health_card
+ไม่ต้อง Claim,user_ask_health_card
+สนใจพาวเวอร์ลิงค์,user_ask_fwd_powerlink
+อยากซื้อพาวเวอร์ลิงค์,user_ask_fwd_powerlink
+อยากทราบรายละเอียดประกันพาวเวอร์ลิงค์,user_ask_fwd_powerlink
+รายละเอียดยูนิตลิงค์,user_ask_fwd_powerlink
+ประกันยูนิตลิงค์,user_ask_fwd_powerlink
+ยูนิตลิ้ง,user_ask_fwd_powerlink
+พาวเวอร์ลิงค์,user_ask_fwd_powerlink
+ขอรายละเอียดยูนิตลิ้งหน่อยครับ,user_ask_fwd_powerlink
+สอบถามข้อมูลประกันพาวเวอร์ลิงค์,user_ask_fwd_powerlink
+ขอทราบข้อมูลประกันพาวเวอร์ลิงค์,user_ask_fwd_powerlink
+สนใจแบบประกันพาวเวอร์ลิงค์ค่ะ,user_ask_fwd_powerlink
+สอบถามรายละเอียดของพาวเวอร์ลิงค์หน่อย,user_ask_fwd_powerlink
+อยากได้ข้อมูลเกี่ยวกับประกันสุขภาพ,user_ask_info_health_ins
+อยากซื้อประกันสุขภาพ,user_ask_info_health_ins
+อยากทราบประกันสุขภาพ,user_ask_info_health_ins
+อยากสอบถามเรื่องประกันสุขภาพ,user_ask_info_health_ins
+อยากถามเกี่ยวกับประกันสุขภาพ,user_ask_info_health_ins
+มีประกันสุขภาพไหม,user_ask_info_health_ins
+ขอดูประกันสุขภาพหน่อย,user_ask_info_health_ins
+กรมธรรม์อะไรบ้าง,user_ask_my_policy
+กี่กรมธรรม์,user_ask_my_policy
+ต้องจ่ายเบี้ยเมื่อไหร่,user_ask_my_policy
+ต้องจ่ายเบี้ยเท่าไหร่,user_ask_my_policy
+ถึง due เมื่อไหร่,user_ask_my_policy
+สอบถามประกันของตัวเอง,user_ask_my_policy
+อยากรู้ประกันของตัวเอง,user_ask_my_policy
+อยากรู้ประกันของเรา,user_ask_my_policy
+ดูประกันของเรา,user_ask_my_policy
+ขอดูกธ.,user_ask_my_policy
+ขอดูกธ,user_ask_my_policy
+ดูประกันของฉัน,user_ask_my_policy
+อยากดูกธ.,user_ask_my_policy
+ดูกธ.,user_ask_my_policy
+ดึงข้อมูลกรมธรรม์ให้หน่อยครับ,user_ask_my_policy
+ขอดูกรมธรรม์ของผมหน่อย,user_ask_my_policy
+ดูประกันที่ซื้อไว้,user_ask_my_policy
+ดูกรมธรรม์ที่ซื้อไว้,user_ask_my_policy
+เช็คชำระเบี้ย,user_ask_my_policy
+เช็คเบี้ยประกัน,user_ask_my_policy
+ครบกำหนดชำระเบี้ยเมื่อไหร่,user_ask_my_policy
+ตรวจสอบกธ,user_ask_my_policy
+เช็คกธ,user_ask_my_policy
+เช็คกรม,user_ask_my_policy
+ตรวจสอบกรม,user_ask_my_policy
+ตรวจสอบกรม,user_ask_my_policy
+เช็คกรม,user_ask_my_policy
+พี่ต้องจ่ายค่าเบี้ยประกันอีกทีเมื่อไหร่,user_ask_my_policy
+อยากรู้ว่าต้องจ่ายเบี้ยประกันเมื่อไหร่,user_ask_my_policy
+งวดนี้ต้องจ่ายเบี้ยประกันวันที่เท่าไหร่,user_ask_my_policy
+ขอดูรายละเอียดกรมธรรม์,user_ask_my_policy
+ขอรายละเอียดกรมธรรม์,user_ask_my_policy
+จ่ายเบี้ยเมื่อไหร่,user_ask_my_policy
+จ่ายเบี้ยเมื่อไร,user_ask_my_policy
+จ่ายเบี้ยวันไหน,user_ask_my_policy
+ต้องจ่ายเบี้ยวันไหน,user_ask_my_policy
+จ่ายเบี้ยวันอะไร,user_ask_my_policy
+ต้องจ่ายเบี้ยวันอะไร,user_ask_my_policy
+จ่ายเบี้ยวันที่เท่าไร,user_ask_my_policy
+ต้องจ่ายเบี้ยวันที่เท่าไร,user_ask_my_policy
+จ่ายเบี้ยมะไหร่,user_ask_my_policy
+ต้องจ่ายเบี้ยมะไหร่,user_ask_my_policy
+จ่ายเบี้ยมะไหล่,user_ask_my_policy
+อยากรู้กรมธรรม์จัง,user_ask_my_policy
+my policy,user_ask_my_policy
+ขอดูกรมธรรม์,user_ask_my_policy
+แต้มไม่เข้า,user_ask_max_issue
+วันนี้เล่นกิจกรรมไม่ได้,user_ask_max_issue
+วิ่งแล้วไม่ได้คะแนน,user_ask_max_issue
+ไม่ได้ OTP,user_ask_max_issue
+สมัครสมาชิกไม่ได้,user_ask_max_issue
+ยังไม่ได้ของรางวัล,user_ask_max_issue
+ลืมชื่อผู้ใช้,user_ask_max_issue
+ลืมชื่อผู้ใช้งาน,user_ask_max_issue
+สมัครสมาชิกไม่ได้ค่ะทำยังไงแนะนำที,user_ask_max_issue
+วันนี้เล่นกิจกรรมไม่เห็นได้เลย,user_ask_max_issue
+วิ่งแล้วคะแนนไม่ขึ้นอ่ะ,user_ask_max_issue
+OTP ไม่เห็นเด้ง,user_ask_max_issue
+แต้มไม่เห็นเข้าเลยครับ,user_ask_max_issue
+ขอใบเสร็จ,user_ask_tax_cert
+ยังไม่ได้รับใบเสร็จ,user_ask_tax_cert
+ขอเอกสารลดหย่อนภาษี,user_ask_tax_cert
+ยังไม่ได้ใบลดหย่อนภาษี,user_ask_tax_cert
+จ่ายค่าเบี้ยนานแล้วยังไม่ได้ใบเสร็จเลย,user_ask_tax_cert
+ใบกำกับภาษีด้วยครับ,user_ask_tax_cert
+ขอใบลดหย่อนภาษี,user_ask_tax_cert
+ดูใบรับรองเบี้ย,user_ask_tax_cert
+ขอใบเสร็จค่าประกัน,user_ask_tax_cert
+ขอใบเคลมภาษี,user_ask_tax_cert
+ดูใบลดหย่อน,user_ask_tax_cert
+ขอดูใบเสร็จหน่อย,user_ask_tax_cert
+ขอดูใบกำกับภาษีหน่อยครับ,user_ask_tax_cert
+ขอใบลดหน่อยภาษีหน่อยค่ะ,user_ask_tax_cert
+ใบลดหย่อนภาษีเอาจากไหนคะ,user_ask_tax_cert
+ขอข้อมูลภาษี,user_ask_tax_cert
+ขอใบเสร็จหน่อย,user_ask_tax_cert
+ขอใบเสร็จหน่อยสิ,user_ask_tax_cert
+จะปริ้นหนังสือรับรองการชำระเบี้ยประกันต้องทำอย่างไรค่ะ,user_ask_tax_cert
+ดิฉันขอดูหนังสือรับรองการชำระ..,user_ask_tax_cert
+ขอหนังสือรับรองเบี้ยประกันค่ะ,user_ask_tax_cert
+จะจ่ายเบี้ยยังไง,user_ask_to_pay
+จ่ายประกันยังไง,user_ask_to_pay
+จ่ายเงินยังไง,user_ask_to_pay
+จ่ายเงินแบบไหนได้บ้าง,user_ask_to_pay
+มีวิธีจ่ายเงินแบบไหนบ้าง,user_ask_to_pay
+จะชำระเงินยังไง,user_ask_to_pay
+ชำระเงินยังไงหรอ,user_ask_to_pay
+อยากจ่ายเบี้ยประกัน,user_ask_to_pay
+จ่ายเบี้ยประกัน,user_ask_to_pay
+ผมจะจ่ายเบี้นประกัน,user_ask_to_pay
+จ่ายเบี้ยประกันได้ที่ไหน,user_ask_to_pay
+จ่ายเงินได้อย่างไร,user_ask_to_pay
+จ่ายเงินได้ไง,user_ask_to_pay
+จะจ่ายเบี้ยประกันต้องทำไงคะ,user_ask_to_pay
+จะจ่ายประกันค่ะต้องทำไงคะ,user_ask_to_pay
+จ่ายตังค์ค่าประกันคะ,user_ask_to_pay
+จ่ายเงินค่าเบี้ยประกันค่ะ,user_ask_to_pay
+จ่ายค่าเบี้ยประกันต้องจ่ายอย่างไรคะ,user_ask_to_pay
+ช่องทางจ่ายตัง,user_ask_to_pay
+วิธีจ่ายตัง,user_ask_to_pay
+ช่องทางจ่ายเงิน,user_ask_to_pay
+จะจ่ายตัง,user_ask_to_pay
+ถึงดิวที่ต้องจ่ายเบี้ยประกันแล้ว ต้องการจ่ายด้วยบัตรเครดิตได้หรือไม่,user_ask_to_pay
+จะจ่ายเบี้ยประกันด้วยบัตรเครดิตต้องจ่ายที่ไหน,user_ask_to_pay
+เรื่องการจ่ายเงิน,user_ask_to_pay
+ค่าประกันชีวิตคะ,user_ask_to_pay
+โรงพยาบาล อยู่ในเครือข่ายมั้ย,user_ask_hospital_near_me
+จังหวัด มีโรงพยาบาลในเครือข่ายมั้ย,user_ask_hospital_near_me
+ในจังหวัด มีโรงพยาบาลที่เบิกได้มั้ย,user_ask_hospital_near_me
+เคลมที่ไหนได้บ้าง,user_ask_hospital_near_me
+เคลมได้ที่ไหนบ้าง,user_ask_hospital_near_me
+อยากเคลมประกันมันได้ที่ไหนบ้าง,user_ask_hospital_near_me
+อยากเคลมประกันโรงพยาบาลไหนได้บ้าง,user_ask_hospital_near_me
+ค้นหาโรงพยาบาลในเครือประกันเอฟดับบลิวดี,user_ask_hospital_near_me
+อยากทราบข้อมูลโรงพยาบาลใกล้หน่อยค่ะ,user_ask_hospital_near_me
+โรงพยาบาลไหนเคลมได้บ้าง,user_ask_hospital_near_me
+มีโรงพยาบาลไหนที่เคลมแถวบ้านได้บ้าง,user_ask_hospital_near_me
+จะรู้ได้ไงว่าโรงพยาบาลแถวบ้านเคลมได้,user_ask_hospital_near_me
+อยากรู้ว่าโรงพยาบาลเคลมได้ไหมคะ,user_ask_hospital_near_me
+หาโรงพยาบาล,user_ask_hospital_near_me
+หาโรงพยาบาลหน่อย,user_ask_hospital_near_me
+หาโรงพยาบาลแถวบ้าน,user_ask_hospital_near_me
+เชครพ.เครื่อข่าย,user_ask_hospital_near_me
+เชครพ.ใกล้ตัว,user_ask_hospital_near_me
+รพ.ไหนใช้ได้บ้าง,user_ask_hospital_near_me
+เช็ครพ.ในเครือ,user_ask_hospital_near_me
+รพ.ไหนเคลมได้บ้าง,user_ask_hospital_near_me
+โรงบาลไหนเคลมได้บ้าง,user_ask_hospital_near_me
+โรงบาลไหนใช้ได้บ้าง,user_ask_hospital_near_me
+ค้นหาโรงพยาบาล,user_ask_hospital_near_me
+ค้นหารพ.,user_ask_hospital_near_me
+หารพ.ใกล้ตัว,user_ask_hospital_near_me
+มีโรงพยาบาลไหนที่เคลมแถวบ้านได้บ้าง,user_ask_hospital_near_me
+ค้นหารพ,user_ask_hospital_near_me
+ค้นหาโรงพยาบาลใกล้ๆ,user_ask_hospital_near_me
+อยากเข้าโรงบาล,user_ask_hospital_near_me
+อยากเข้าโรงพยาบาล,user_ask_hospital_near_me
+ค้นหารพ.,user_ask_hospital_near_me
+ค้นหา รพ,user_ask_hospital_near_me
+ค้นหา รพ.,user_ask_hospital_near_me
+โรงพยาบาลใกล้ตัวมีที่ไหนคะ,user_ask_hospital_near_me
+โรงพยาบาลใกล้ตัวมีที่ไหน,user_ask_hospital_near_me
+มีโรงพยาบาลใกล้ๆแถวนี้มั้ยครับ,user_ask_hospital_near_me
+เช็คโรงพยาบาลใกล้ตัวคะ,user_ask_hospital_near_me
+ขอเช็ครพใกล้ตัว,user_ask_hospital_near_me
+เช็ครพในเครือข่ายแถวนี้มีที่ไหนบ้างคะ,user_ask_hospital_near_me
+หารพใกล้ตัว,user_ask_hospital_near_me
+ตรวจสอบตำแหน่งโรงพยาบาลใกล้ตัวเรา,user_ask_hospital_near_me
+ต้องการค้นหารพใกล้ตัวคะ,user_ask_hospital_near_me
+หารพ.ใกล้ๆแถวนี้มีที่ไหนบ้าง,user_ask_hospital_near_me
+เช็คค้นหาโรงบาลใกล้ตัว,user_ask_hospital_near_me
+ตรวจสอบรพ.ใกล้ตัวค่ะ,user_ask_hospital_near_me
+หารพ.ใกล้ตัวมีที่ไหนใช้เคลมกับทางFWDได้บ้าง,user_ask_hospital_near_me
+ค้นหาโรงพยาบาลในเครือของFWD,user_ask_hospital_near_me
+ค้นหารพ.ในเครือFWDค่ะ,user_ask_hospital_near_me
+หารพ.ใกล้ตัวที่ใช้ประกันของFWD,user_ask_hospital_near_me
+ค้นหารพ.ใกล้ๆของFWD,user_ask_hospital_near_me
+หารพ. ใกล้ๆหน่อย,user_ask_hospital_near_me
+ค้นหารพ.ใกล้ๆนี้,user_ask_hospital_near_me
+รพ. ใกล้ๆ,user_ask_hospital_near_me
+รพ. เครือข่ายมีอะไรบ้าง,user_ask_hospital_near_me
+สนใจทำประกัน,user_ask_product_info
+มีแบบประกันอะไรบ้าง,user_ask_product_info
+อยากได้ประกันที่สามารถลดหย่อนภาษีได้,user_ask_product_info
+สนใจทำประกันให้ลูก,user_ask_product_info
+สนใจทำประกันให้พ่อ,user_ask_product_info
+สนใจทำประกันให้แม่,user_ask_product_info
+สนใจทำประกันให้สามี,user_ask_product_info
+สนใจทำประกันให้ภรรยา,user_ask_product_info
+ซื้อประกัน,user_ask_product_info
+อยากทำประกัน,user_ask_product_info
+อยากซื้อประกัน,user_ask_product_info
+ขายประกันอะไรบ้าง,user_ask_product_info
+มีประกันอะไรขาย,user_ask_product_info
+มีประกันแบบไหนบ้าง,user_ask_product_info
+ศึกษาประกัน,user_ask_product_info
+สนใจปะกัน,user_ask_product_info
+มีประกันอะไรแนะนำบ้างครับ,user_ask_product_info
+สนใจทำประกันครับ,user_ask_product_info
+สนใจทำประกันค่ะ,user_ask_product_info
+สนใจประกันครับ,user_ask_product_info
+สนใจประกันจ้า,user_ask_product_info
+จะทำประกัน,user_ask_product_info
+จะซื้อประกัน,user_ask_product_info
+มีประกันกี่ประเภทครับ,user_ask_product_info
+ประกันมีกี่ประเภท,user_ask_product_info
+ดูประกันหน่อย,user_ask_product_info
+มีประกันอะไรบ้าง,user_ask_product_info
+ไหนดูประกันหน่อยสิ,user_ask_product_info
+แบบประกันที่ใช่,user_ask_product_info
+สนใจแบบประกันที่ใช่,user_ask_product_info
+ประกันที่ใช่,user_ask_product_info
+อยากทำประกันชีวิต,user_ask_life_insurance
+ทำประกันชีวิตยังไง,user_ask_life_insurance
+มีประกันชีวิตมั้ย,user_ask_life_insurance
+อยากดูประกันชีวิตหน่อยค่ะ,user_ask_life_insurance
+ประกันชีวิตมีอะไรบ้าง,user_ask_life_insurance
+มีประกันชีวิตอะไรบ้าง,user_ask_life_insurance
+ผมอยากซื้อประกันชีวิตให้,user_ask_life_insurance
+ประกันชีวิตนี่มีอะไรบ้างครับ,user_ask_life_insurance
+มีประกันชีวิตอะไรช่วงนี้ดีๆ,user_ask_life_insurance
+แนะนำประกันชีวิตหน่อยครับ,user_ask_life_insurance
+อยากซื้อประกันชีวิตมีตัวไหนแนะนำบ้างคะ?,user_ask_life_insurance
+สนใจผลิตภัณฑ์,user_ask_life_insurance
+สนใจโปรดัก,user_ask_life_insurance
+มีประกันชีวิตกี่แบบครับ,user_ask_life_insurance
+ซื้อประกันแบบไหนดี,user_ask_life_insurance
+ได้รับแฟกซ์รึยัง,user_ask_fax_receive
+ส่งแฟกซ์มา ได้รับยัง,user_ask_fax_receive
+ส่ง fax มาให้ ได้รับมั๊ย,user_ask_fax_receive
+fax ไปให้แล้ว ได้รับรึยัง,user_ask_fax_receive
+ขอลำดับแฟกซ์,user_ask_fax_receive
+ขอลำดับFax,user_ask_fax_receive
+ได้รับ Fax ยัง,user_ask_fax_receive
+เช็ค Fax,user_ask_fax_receive
+เช็คแฟกซ์ ของกรมธรรม์,user_ask_fax_receive
+เช็คแฟกส์ กรมธรรม,user_ask_fax_receive
+ขอเช็คลำดับแฟกซ์หน่อย,user_ask_fax_receive
+ขออนุญาตยืนยันแฟ็กซ์ค่ะ,user_ask_fax_receive
+คอนเฟริมแฟกค่ะ,user_ask_fax_receive
+คอนเฟริมFAXค่ะ,user_ask_fax_receive
+แฟกซืได้รับยัง,user_ask_fax_receive
+เช็คแฟกซ์ ของกธ.,user_ask_fax_receive
+ขอลำดับ แฟกซ์ ของกธ.,user_ask_fax_receive
+ขอลำดับ แฟกซ์ ของกรมธรรม์,user_ask_fax_receive
+ขอลำดับแฟกส์ ของกธ.,user_ask_fax_receive
+ขอลำดับแฟกส์ ของกรมธรรม์,user_ask_fax_receive
+ขอลำดับ แฟกส์ ของกธ.,user_ask_fax_receive
+ขอลำดับ แฟกส์ ของกรมธรรม์,user_ask_fax_receive
+สวัสดีครับ,user_greeting
+สวัสดีค่ะ,user_greeting
+สวัสดีค่า,user_greeting
+สวัสดีฮับ,user_greeting
+สวัสดี,user_greeting
+หวัดดี,user_greeting
+ดี,user_greeting
+ดีจ้า,user_greeting
+ดีคร๊าบ,user_greeting
+ซาหวัดดี,user_greeting
+โย่ว,user_greeting
+วอทสัพ,user_greeting
+วอทสัพแมน,user_greeting
+ดีครับ,user_greeting
+โย่ววว,user_greeting
+Hi,user_greeting
+Hello,user_greeting
+เริ่มต้นการแชท,user_greeting
+เช็คสถานะเคลม,user_ask_how_to_claim
+ตรวจสอบสถานะการเคลม,user_ask_how_to_claim
+ขอเช็คเคลม,user_ask_how_to_claim
+ขอเรียกร้องค่าสินไหม,user_ask_how_to_claim
+เช็คสถานะการเคลม,user_ask_how_to_claim
+ตรวจสอบเคลม,user_ask_how_to_claim
+ขอเช็คผลเคลม,user_ask_how_to_claim
+ขอผลเคลมหน่อยครับ,user_ask_how_to_claim
+ตรวจสอบสถานะเคลม,user_ask_how_to_claim
+เมื่อไรจะได้ค่าเคลม,user_ask_how_to_claim
+ตรวจสอบสถานะการเรียกร้องค่าสินไหม,user_ask_how_to_claim
+ขอทราบสถานะการเคลม,user_ask_how_to_claim
+ขอเช็คสถานะเรียกร้องสินไหม,user_ask_how_to_claim
+สถานะค่าสินไหม,user_ask_how_to_claim
+สถานะค่าสินไหมทดแทน,user_ask_how_to_claim
+ตรวจสอบผลเคลม,user_ask_how_to_claim
+เคลมประกัน,user_ask_how_to_claim
+ต้องการเคลมประกัน,user_ask_how_to_claim
+ต้องการเปลี่ยนแปลงที่อยู่,user_ask_how_change_address_tel
+ต้องการให้เอกสารส่งมาที่อยู่ใหม่ทำยังไงบ้าง,user_ask_how_change_address_tel
+ที่อยู่เดิมไม่ได้อยู่แล้วเปลี่ยนเป็นที่อยู่ใหม่ได้ไหม,user_ask_how_change_address_tel
+เปลี่ยนที่อยู่,user_ask_how_change_address_tel
+ต้องการเปลี่ยนแปลงข้อมูลที่อยู่ต้องทำยังไงคะ,user_ask_how_change_address_tel
+อยากเปลี่ยนแปลงข้อมูลที่อยู่ต้องทำยังไงบ้างคะ,user_ask_how_change_address_tel
+ขอทราบวิธีการเปลี่ยนแปลงข้อมูลที่อยู่หน่อยค่ะ,user_ask_how_change_address_tel
+แชทกับเรา,user_say_chat_with_us
+อยากคุยกับคน,user_need_to_talk_callcenter
+อยากคุยกะคน,user_need_to_talk_callcenter
+อยากคุยกะเจ้าหน้าที่,user_need_to_talk_callcenter
+ขอคุยกับคน,user_need_to_talk_callcenter
+ขอคุยกับเจ้าหน้าที่,user_need_to_talk_callcenter
+ไม่อยากคุยกะบอท,user_need_to_talk_callcenter
+ไม่อยากคุยกับ bot,user_need_to_talk_callcenter
+ไม่เอาบอท,user_need_to_talk_callcenter
+จะคุยกะคน,user_need_to_talk_callcenter
+คุยกับคน,user_need_to_talk_callcenter
+คุยกับ callcenter,user_need_to_talk_callcenter
+ขอคุยกับcallcenter,user_need_to_talk_callcenter
+ขอคุยกับ call center,user_need_to_talk_callcenter
+ต้องการติดต่อเจ้าหน้าที่,user_need_to_talk_callcenter
+ติดต่อเจ้าหน้าที่,user_need_to_talk_callcenter
+ติดต่อเจ้าหน้าที่ได้ยังไงบ้าง,user_need_to_talk_callcenter
+ติอต่อเจ้าหน้าที่ต้องทำยังไง,user_need_to_talk_callcenter
+อยากดูประกันเพื่อการลงทุน,user_ask_unitlink
+ขอดูประกัน unitlink,user_ask_unitlink
+ขอทราบประกัน unit link,user_ask_unitlink
+สนใจประกัน Unit linked,user_ask_unitlink
+สนใจประกัน ยูนิตลิงค์,user_ask_unitlink
+มียูนิตลิ้งมั้ย,user_ask_unitlink
+ประกันเพื่อการลงทุนมีอะไรบ้าง,user_ask_unitlink
+ประกันควบการลงทุนมีอะไรบ้าง,user_ask_unitlink
+ขอทราบข้อมูล tmb weathly link,user_ask_unitlink
+ขอทราบข้อมูล wealthy link,user_ask_unitlink
+ขอทราบข้อมูลเวลตี้ลิงค์,user_ask_unitlink
+ขอทราบข้อมูลเวลธ์ตี้ลิงค์,user_ask_unitlink
+อยากทราบเรื่องประกันเพื่อการลงทุน,user_ask_unitlink
+อยากทราบประกันควบการลงทุน,user_ask_unitlink
+ขอข้อมูลสำหรับ wealthy link หน่อย,user_ask_unitlink
+อยากรู้ข้อมูลเกี่ยวกับเวลตี้ลิ้ง,user_ask_unitlink
+ขอทราบข้อมูลเวลตี้ลิ้งหน่อยค่ะ,user_ask_unitlink
+ติดตามเปลี่ยนแปลง,user_ask_followup
+ต้องการติดตามการเปลี่ยนแปลง,user_ask_followup
+ตามเรื่องการเปลี่ยนแปลง,user_ask_followup
+ตามเรื่องเคลม,user_ask_followup
+ตามเรื่องสินไหม,user_ask_followup
+ตามเรื่องยกเลิกประกัน,user_ask_followup
+ตามเรื่องเวนคืน,user_ask_followup
+ตามเรื่องเปลี่ยนแปลง,user_ask_followup
+ตามเรื่องผลเคลม,user_ask_followup
+ตามเรื่องบัตรประกัน,user_ask_followup
+ตามเรื่องบัตรประกันสุขภาพ,user_ask_followup
+ตามเรื่องบัตรแคร์การ์ด,user_ask_followup
+ตามเรื่องอนุมัติกธ.,user_ask_followup
+ตามเรื่องอนุมัติกรมธรร,user_ask_followup
+ตามเรื่องอนุมัติกรมธรรม์,user_ask_followup
+ตามเรื่องผลอนุมัติประกัน,user_ask_followup
+ตามเรื่องผลการอนุมัติ,user_ask_followup
+ตามเรื่องพิจารณาสินไหม,user_ask_followup
+ตามเรื่องเงินคืน,user_ask_followup
+ตามเรื่องเอกสาร,user_ask_followup
+ตามเรื่องเปลี่ยนแปลงชื่อ,user_ask_followup
+ตามเรื่องเปลี่ยนแปลงเบอร์,user_ask_followup
+ตามเรื่องเปลี่ยนแปลงที่อยู่,user_ask_followup
+ตามเรื่องเปลี่ยนชื่อ,user_ask_followup
+ตามเรื่องเปลี่ยนเบอร์,user_ask_followup
+ตามเรื่องเปลี่ยนที่อยู่,user_ask_followup
+ตามเรื่อง claim,user_ask_followup
+ตามเรื่องแคลม,user_ask_followup
+ตามเรื่องเงินเคลม,user_ask_followup
+ตามเรื่องใบจ่ายเงิน,user_ask_followup
+สอบถามการอนุมัติผลเคลม,user_ask_followup
+สอบถามผลเคลม กรมธรรม์,user_ask_followup
+สอบถามการพิจารณาเคลม กรมธรรม์,user_ask_followup
+สอบถามการพิจารณาสินไหม กรมธรรม์,user_ask_followup
+สอบถามผลการอนุมัติ กรมธรรม์,user_ask_followup
+สอบถามเงินเคลม,user_ask_followup
+ขอเงินคืนได้ยัง,user_ask_followup
+เงินคืนได้ยัง,user_ask_followup
+พี่ยังไม่ได้รับใบแจ้งค่าเบี้ย,user_ask_followup
+ทำไม่ตัดบัตรเครดิตไม่ได้,user_ask_followup
+ทำไมตัดบัญชีไม่ได้,user_ask_followup
+ได้รับ sms ว่าตัดบัญชีไม่ผ่าน ทำยังไง,user_ask_followup
+มันไม่ตัดบัตรเครดิต,user_ask_followup
+ไม่เห็นตัดบัญชีเลย,user_ask_followup
+มันจะตัดบัญชียังไง?,user_ask_followup
+ปกติแล้วตัดบัญชีหรือเปล่า,user_ask_followup
+จ่ายเบี้ยประกันเมื่อไหร่ดูยังไง,user_ask_followup
+จ่ายเบี้ยรึยัง,user_ask_followup
+ขอยกเลิกประกัน,user_ask_cancel
+จะยกเลิกประกัน,user_ask_cancel
+อยากยกเลิกประกัน,user_ask_cancel
+ขอยกเลิกกรมธรรม์,user_ask_cancel
+จะยกเลิกกรมธรรม์,user_ask_cancel
+อยากยกเลิกกรมธรรม์,user_ask_cancel
+ยกเลิกกธ.,user_ask_cancel
+ขอทำเรื่องยกเลิกประกัน,user_ask_cancel
+ไม่เอาประกันแล้ว,user_ask_cancel
+แจ้งยกเลิกประกัน,user_ask_cancel
+ขอยกเลิกประกันหน่อยค่ะ,user_ask_cancel
+อยากยกเลิกประกันค่ะ,user_ask_cancel
+ขอทำเรื่องยกเลิกประกันหน่อยค่ะ,user_ask_cancel
+อยากทำเรื่องยกเลิกกธ.,user_ask_cancel
+ยกเลิกกรมธรรม์หน่อยค่ะ,user_ask_cancel
+ยกเลิกประกันให้หน่อยสิ,user_ask_cancel
+ผมอยากยกเลิกประกัน,user_ask_cancel
+ขอยกเลิกประกันหน่อย,user_ask_cancel
+ถูกหลอกขายประกัน,user_ask_cancel
+ขอร้องเรียน,user_ask_cancel
+complain,user_ask_cancel
+แจ้งยกเลิก,user_ask_cancel
+ขอยกเลิก,user_ask_cancel
+ขอทำเรื่องยกเลิกประกันหน่อยค่ะ,user_ask_cancel
+บริการห่วย,user_ask_cancel
+ติดต่อตัวแทนไม่ได้เลย,user_ask_cancel
+ตัวแทนไม่ดูแลเลย,user_ask_cancel
+ไม่เอาประกันที่นี่แล้ว,user_ask_cancel
+ยกเลิกก.ธ.,user_ask_cancel
+ยกเลิกประกันได้มั๊ย,user_ask_cancel
+อยากเวรคืนกรมธรรม์,user_ask_cancel
+ต้องการเวรคืนกรมธรรม์,user_ask_cancel
+ขอเวรคืนกรมธรร,user_ask_cancel
+เวนคืนกธ.,user_ask_cancel
+ขอเวนคืนกธ.,user_ask_cancel
+ขอเวนคืนกรมธรรม,user_ask_cancel
+ขอเวนคืนกรมธรรม์,user_ask_cancel
+ขอเวนคืนประกัน,user_ask_cancel
+ขอปิดกรม,user_ask_cancel
+ขอปิดกรมธรรม์,user_ask_cancel
+I want to cancel my policy,user_ask_cancel
+อยากทราบวิธีการเคลม,user_ask_how_to_claim_web
+วิธีเคลม,user_ask_how_to_claim_web
+วิธีเรียกร้องค่าสินไหม,user_ask_how_to_claim_web
+เคลมทำยังไง,user_ask_how_to_claim_web
+ขั้นตอนการเคลม,user_ask_how_to_claim_web
+อยากรู้วิธีเคลม,user_ask_how_to_claim_web
+อยากเคลมต้องทำอย่างไร,user_ask_how_to_claim_web
+ขอทราบขั้นตอนการเคลม,user_ask_how_to_claim_web
+บริการทันใจ,user_ask_services
+บริการทันใจจ้ะ,user_ask_services
+ทำไรได้มั่ง,user_ask_what_can_bot_do
+ทำอะไรได้บ้าง,user_ask_what_can_bot_do
+ทำไรเป็นมั่ง,user_ask_what_can_bot_do
+ทำอะไรได้มั่ง,user_ask_what_can_bot_do
+ทำอะไรได้บ้างเนี่ย,user_ask_what_can_bot_do
+นี่ข้อความอัตโนมัตหรือเปล่าครับ,user_ask_what_can_bot_do
+GOT7,user_ask_GOT7
+GOT7 Passion,user_ask_GOT7
+GOT7 FWD,user_ask_GOT7
+ก็อตเซเวน,user_ask_GOT7
+กั๊ส,user_ask_GOT7
+กัส,user_ask_GOT7
+กิจกรรม GOT7,user_ask_GOT7
+แคมเปญ GOT7,user_ask_GOT7
+Real People Real Passion Season4,user_ask_GOT7
+Real People Real Passion Season,user_ask_GOT7
+แคมเปญ Real People Real Passion Season4,user_ask_GOT7
+แคมเปญ FWD Passion,user_ask_GOT7
+FWD Got7,user_ask_GOT7
+วิธีเล่น GOT7,user_ask_GOT7
+GOT7 วิธีเล่นเล่นยังไง,user_ask_GOT7
+ทริปลับ GOT7,user_ask_GOT7
+ค้นหาเพิ่มเติม,MoreInfo
+อยากซื้อประกันเพื่อลงทุน,user_ask_info_investment_ins
+มียูนิตลิงค์มั๊ย,user_ask_info_investment_ins
+อยากซื้อ unit link,user_ask_info_investment_ins
+อยากดูประกันเพื่อการลงทุน,user_ask_info_investment_ins
+ประกัน unitlink,user_ask_info_investment_ins
+ประกัน unit link,user_ask_info_investment_ins
+สนใจประกัน Unit linked,user_ask_info_investment_ins
+สนใจประกัน ยูนิตลิงค์,user_ask_info_investment_ins
+อยากดูประกันพาวเวอร์ลิ้ง,user_ask_info_investment_ins
+อยากรู้ประกันพาวเวอร์ลิงค์,user_ask_info_investment_ins
+มียูนิตลิ้ง,user_ask_info_investment_ins
+ประกันเพื่อการลงทุน,user_ask_info_investment_ins
+ประกันควบการลงทุน,user_ask_info_investment_ins
+สนใจประกันเวลตี้ลิงค์,user_ask_info_investment_ins
+เวลธ์ตี้ลิงค์,user_ask_info_investment_ins
+มี unit linked ไหม,user_ask_info_investment_ins
+ซื้อประกัน unit linked,user_ask_info_investment_ins
+tmb weathly link,user_ask_info_investment_ins
+wealthy link,user_ask_info_investment_ins
+เวลตี้ลิงค์,user_ask_info_investment_ins
+มีประกันเพื่อการลงทุนอะไรบ้าง,user_ask_info_investment_ins
+อยากได้ประกันเพื่อการลงทุน,user_ask_info_investment_ins
+แนะนำประกันเพื่อนการลงทุนหน่อย,user_ask_info_investment_ins
+มีประกันแนะนำการลงทุนมั้ย,user_ask_info_investment_ins
+อยากซื้อประกันการลงทุน,user_ask_info_investment_ins
+อยากซื้อประกันการลงทุนมีตัวไหนแนะนำบ้าง,user_ask_info_investment_ins
+ขอดูประกันเพื่อการลงทุน,user_ask_info_investment_ins
+อยากรู้ประกันพาวเวอร์ลิ้ง,user_ask_info_investment_ins
+ซื้อประกันเพื่อลงทุน,user_ask_info_investment_ins
+อยากซื้อประกันเพื่อการออมเงิน,user_ask_info_saving_ins
+อยากทราบประกันเพื่อการออมเงิน,user_ask_info_saving_ins
+อยากสอบถามเรื่องประกันเพื่อออมเงิน,user_ask_info_saving_ins
+อยากถามเกี่ยวกับประกันเพื่อออมเงิน,user_ask_info_saving_ins
+อยากซื้อประกันสะสมทรัพย์,user_ask_info_saving_ins
+สอบถามเรื่องประกันสะสมทรัพย์,user_ask_info_saving_ins
+อยากทราบเกี่ยวกับประกันสะสมทรัพย์,user_ask_info_saving_ins
+มีประกันออมทรัพย์ไหม,user_ask_info_saving_ins
+มีประกันออมเงินมั๊ย,user_ask_info_saving_ins
+อยากได้ข้อมูลเกี่ยวกับประกันออมทรัพย์,user_ask_info_saving_ins
+สนใจประกันชีวิตเพื่อสะสมทรัพย์,user_ask_info_saving_ins
+อยากได้ประกันการออมเงินอ่ะ,user_ask_info_saving_ins
+ประกันที่ช่วยออมเงิน,user_ask_info_saving_ins
+ประกันไหนออมเงินบ้าง,user_ask_info_saving_ins
+อยากทราบข้อมูลประกันการออมเงิน,user_ask_info_saving_ins
+อยากซื้อประกันออมทรัพย์มีอะไรบ้างคะ,user_ask_info_saving_ins
+ขอดูประกันสะสมทรัพย์หน่อย,user_ask_info_saving_ins
+อยากซื้อประกัน 15/9,user_ask_info_saving_ins
+สนใจประกัน 15/9,user_ask_info_saving_ins
+อยากซื้อประกันโรคร้ายแรง,user_ask_info_cancer_ins
+อยากซื้อประกันมะเร็ง,user_ask_info_cancer_ins
+อยากทราบประกันโรคร้ายแรง,user_ask_info_cancer_ins
+อยากทราบประกันมะเร็ง,user_ask_info_cancer_ins
+อยากสอบถามเรื่องประกันโรคมะเร็ง,user_ask_info_cancer_ins
+อยากสอบถามเรื่องประกันโรคร้ายแรง,user_ask_info_cancer_ins
+ต้องการซื้อประกันมะเร็ง,user_ask_info_cancer_ins
+อยากทราบรายละเอียดประกันโรคมะเร็ง,user_ask_info_cancer_ins
+มีประกันโรคมะเร็งไหม,user_ask_info_cancer_ins
+ซื้อประกันโรคมะเร็ง,user_ask_info_cancer_ins
+สอบถามประกันมะเร็ง,user_ask_info_cancer_ins
+สนใจประกันมะเร็ง,user_ask_info_cancer_ins
+ขอข้อมูลประกันมะเร็ง,user_ask_info_cancer_ins
+อยากได้รายละเอียดประกันมะเร็ง,user_ask_info_cancer_ins
+ขอดูประกันมะเร็งหน่อย,user_ask_info_cancer_ins
+มะเร็ง,user_ask_info_cancer_ins
+โรคร้ายแรง,user_ask_info_cancer_ins
+ประกันโรคร้ายแรง,user_ask_info_cancer_ins
+สนใจประกันโรคร้ายแรง,user_ask_info_cancer_ins
+มีประกันสำหรับโรคร้ายแรงป้ะ,user_ask_info_cancer_ins
+อยากซื้อประกันอุบัติเหตุ,user_ask_info_accidental_ins
+อยากทราบประกันอุบัติเหตุ,user_ask_info_accidental_ins
+อยากสอบถามเรื่องประกันอุบัติเหตุ,user_ask_info_accidental_ins
+อยากถามเกี่ยวกับประกันอุบัติเหตุ,user_ask_info_accidental_ins
+มีประกันอุบัติเหตุไหม,user_ask_info_accidental_ins
+ซื้อประกันอุบัติเหตุ,user_ask_info_accidental_ins
+ต้องการซื้อประกันอุบัติเหตุ,user_ask_info_accidental_ins
+ขอข้อมูลประกันอุบัติเหตุ,user_ask_info_accidental_ins
+อยากได้รายละเอียดประกันอุบัติเหตุ,user_ask_info_accidental_ins
+ขอดูประกันอุบัติเหตุหน่อย,user_ask_info_accidental_ins
+อยากทำประกันคนกล้า เอกซ์ตร้า,user_ask_info_accidental_ins
+อยากทำประกันคนกล้า,user_ask_info_accidental_ins
+สนใจประกันคนกล้า เอกซ์ตร้า,user_ask_info_accidental_ins
+ขอข้อมูลประกันคนกล้า,user_ask_info_accidental_ins
+สนใจประกันคนกล้า,user_ask_info_accidental_ins
+สนใจที่จะรู้เรื่องประกันอุบัติเหตุ,user_ask_info_accidental_ins
+อยากซื้อประกันสำหรับเกษียณ,user_ask_info_retirement_ins
+อยากทราบประกันเพื่อการเกษียณ,user_ask_info_retirement_ins
+อยากสอบถามประกันเกษียณอายุ,user_ask_info_retirement_ins
+อยากถามเกี่ยวกับประกันเพื่อการเกษียณ,user_ask_info_retirement_ins
+อยากซื้อประกันบำนาญ,user_ask_info_retirement_ins
+ต้องการซื้อประกันบำนาญ,user_ask_info_retirement_ins
+สนใจประกันบำนาญ,user_ask_info_retirement_ins
+อยากทราบรายละเอียดประกันบำนาญ,user_ask_info_retirement_ins
+มีประกันเกษียณไหม,user_ask_info_retirement_ins
+มีประกันบำนาญไหม,user_ask_info_retirement_ins
+อยากทราบรายละเอียดประกันเกษียณ,user_ask_info_retirement_ins
+สอบถามประกันบำนาญ,user_ask_info_retirement_ins
+ขอข้อมูลประกันบำนาญ,user_ask_info_retirement_ins
+อยากได้รายละเอียดประกันบำนาญ,user_ask_info_retirement_ins
+ขอดูประกันบำนาญหน่อย,user_ask_info_retirement_ins
+อยากซื้อประกันให้ลูก,user_ask_info_edu_ins
+อยากทราบเกี่ยวกับประกันให้ลูก,user_ask_info_edu_ins
+อยากทราบเกี่ยวกับประกันเพื่อการศึกษา,user_ask_info_edu_ins
+อยากถามเกี่ยวกับประกันเพื่อการศึกษา,user_ask_info_edu_ins
+อยากสอบถามเรื่องประกันการศึกษา,user_ask_info_edu_ins
+มีประกันการศึกษาไหม,user_ask_info_edu_ins
+ต้องการซื้อประกันการศึกษา,user_ask_info_edu_ins
+อยากทราบรายละเอียดประกันการศึกษา,user_ask_info_edu_ins
+มีประกันการศึกษาไหม,user_ask_info_edu_ins
+อยากได้รายละเอียดประกันการศึกษา,user_ask_info_edu_ins
+อยากได้ข้อมูลเกี่ยวกับประกันการศึกษา,user_ask_info_edu_ins
+สอบถามประกันการศึกษา,user_ask_info_edu_ins
+หาข้อมูลประกันเพื่อการศึกษา,user_ask_info_edu_ins
+สนใจประกันเงินฝากให้ลูก,user_ask_info_edu_ins
+อยากได้ประกันออมทรัพย์ให้ลูก,user_ask_info_edu_ins
+ขอรายละเอียดประกันเงินลงทุนให้ลูก,user_ask_info_edu_ins
+ขอทราบรายละเอียดประกันเงินออมเพื่อลูก,user_ask_info_edu_ins
+มีประกันเงินออมให้ลูกไหม,user_ask_info_edu_ins
+ต้องการสอบถามประกันเงินออมให้ลูก,user_ask_info_edu_ins
+มีประกันให้ลูกอันไหนน่าสนใจบ้าง,user_ask_info_edu_ins
+ขอข้อมูลเกี่ยวกับประกันเงินออมให้ลูกหน่อยครับ,user_ask_info_edu_ins
+แนะนำประกันเงินฝากให้ลูกหน่อยครับ,user_ask_info_edu_ins
+มีรายละเอียดประกันให้ลูกไหมครับ,user_ask_info_edu_ins
+อยากซื้อประกันออมทรัพย์ให้ลูกมีอะไรบ้างคะ,user_ask_info_edu_ins
+ต้องการสอบถามประกันเงินออมให้ลูก,user_ask_info_edu_ins
+มีรายละเอียดประกันให้ลูกไหมครับ,user_ask_info_edu_ins
+ขอดูประกันเพื่อลูกหน่อย,user_ask_info_edu_ins
+อยากซื้อประกันชดเชยรายได้,user_ask_info_compensation_ins
+อยากทราบประกันชดเชยรายได้,user_ask_info_compensation_ins
+อยากสอบถามเรื่องประกันชดเชยรายได้,user_ask_info_compensation_ins
+อยากถามเกี่ยวกับประกันชดเชยรายได้,user_ask_info_compensation_ins
+สอบถามประกันชดเชยรายได้,user_ask_info_compensation_ins
+มีประกันชดเชยรายได้มั๊ย,user_ask_info_compensation_ins
+มีประกันชดเชยรายได้ไหม,user_ask_info_compensation_ins
+ต้องการซื้อประกันชดเชยรายได้,user_ask_info_compensation_ins
+หาข้อมูลประกันชดเชยรายได้,user_ask_info_compensation_ins
+อยากได้รายละเอียดประกันชดเชยรายได้,user_ask_info_compensation_ins
+สนใจประกันชดเชยรายได้,user_ask_info_compensation_ins
+อยากให้แนะนำประกันชดเชยรายได้,user_ask_info_compensation_ins
+ประกันชดเชยรายได้อะไรดี,user_ask_info_compensation_ins
+ประกันที่นอนรพ.แล้วชดเชยรายได้,user_ask_info_compensation_ins
+ประกันที่จ่ายค่าแรง,user_ask_info_compensation_ins
+ประกันที่นอนรพ.แล้วได้เงินด้วย,user_ask_info_compensation_ins
+จะเปลี่ยนบัตรเครดิตใบใหม่ทำยังไงครับ,user_ask_how_change_creditcard
+บัตรเครดิตหาย จะจ่ายเงินยังไง,user_ask_how_change_creditcard
+เปลี่ยนบัตรเครดิตจะทำไงครับ,user_ask_how_change_creditcard
+บัตรเครดิตหาย ขอแจ้งเปลี่ยนบัตร,user_ask_how_change_creditcard
+บัตรเครดิตใบเก่าหมดอายุจะเปลี่ยนเป็นบัตรใบใหม่ยังไงค่ะ,user_ask_how_change_creditcard
+ทางธนาคารส่งบัตรมาให้ใหม่ต้องทำอย่างไร,user_ask_how_change_creditcard
+ต้องการเปลี่ยนแปลงบัตรเครดิตในการชำระเบี้ยประกัน,user_ask_how_change_creditcard
+พอดีผมทำบัตรเครดิตหาย จะขอเปลี่ยนหักผ่านบัตรเครดิตใบอื่นแทน ต้องทำยังงัยครับ,user_ask_how_change_creditcard
+จะแจ้งเปลี่ยนชื่อ-สกุล ต้องใช้เอกสารอะไรบ้าง,user_ask_how_change_name
+จะแจ้งเปลี่ยนนามสกุล ต้องทำยังไง,user_ask_how_change_name
+จะแจ้งเปลี่ยนชื่อ ต้องใช้เอกสารอะไรบ้าง,user_ask_how_change_name
+เพิ่งเปลี่ยนนามสกุลมาต้องแจ้งทาง FWD ไหมค่ะ,user_ask_how_change_name
+ไม่อยากให้ตัดผ่านบัตรเครดิต/บัญชี จะชำระเงินวิธีไหนได้บ้าง,user_ask_how_change_payment
+ต้องการยกเลิกการตัดบัญชี/เครดิตต้องทำอย่างไรครับ,user_ask_how_change_payment
+ต้องการชำระเบี้ยด้วยเงินสดทำยังไงบ้างค่ะ,user_ask_how_change_payment
+คะแนนหมดอายุเมื่อไหร่,user_ask_max_point_expired_date
+แต้มหมดอายุ,user_ask_max_point_expired_date
+แต้มหาย,user_ask_max_point_expired_date
+คะแนนหาย,user_ask_max_point_expired_date
+แต้มจะหมดอายุเมื่อไหร่,user_ask_max_point_expired_date
+อายุของแต้ม FWD MAX,user_ask_max_point_expired_date
+App FWD MAX แต้มจะหมดอายุเมื่อไหร่คะ,user_ask_max_point_expired_date
+แอปของ FWD MAX จะหมดอายุตอนไหนครับ,user_ask_max_point_expired_date
+อยากทราบวันหมดอายุของแต้ม แอพพลิเคชั่น FWD MAX ครับ,user_ask_max_point_expired_date
+แต้มของ แอปพลิเคชัน FWD MAX จะหมดอายุเมื่อไหร่ครับ,user_ask_max_point_expired_date
+คะแนน FWD MAX หมดอายุเมื่อไหร่,user_ask_max_point_expired_date
+FWD MAX แต้มหมดอายุ,user_ask_max_point_expired_date
+FWD MAX แต้มหาย,user_ask_max_point_expired_date
+แอพพลิเคชั่น FWD MAX คะแนนหาย,user_ask_max_point_expired_date
+ไม่มีของรางวัลอะไรใหม่ๆบ้างเลย,user_ask_max_want_new_prize
+ไม่มีของให้แลกเลย,user_ask_max_want_new_prize
+ไม่มีแลกบีทีเอสแล้ว,user_ask_max_want_new_prize
+ไม่เห็นมีรางวัลใหม่ๆเลย,user_ask_max_want_new_prize
+ขอรางวัลใหม่ๆหน่อย,user_ask_max_want_new_prize
+ของรางวัลของ FWD MAX มีอะไรบ้างคะ,user_ask_max_want_new_prize
+ของรางวัลของ FWD MAX มีอะไรบ้างครับ,user_ask_max_want_new_prize
+มีของรางวัลใหม่ๆของ FWD MAX คะ,user_ask_max_want_new_prize
+ของรางวัลใหม่ๆของApp FWD MAX มีอะไรบ้างคะ,user_ask_max_want_new_prize
+FWD MAX ไม่มีของให้แลกเลย,user_ask_max_want_new_prize
+FWD MAX ไม่มีให้แลก BTS แล้วเหรอคะ,user_ask_max_want_new_prize
+แอพพลิเคชัน FWD MAX มีของรางวัลอะไรบ้าง,user_ask_max_want_new_prize
+โหลด FWD MAX ยังไง,user_ask_max_how_to_load
+ดาวน์โหลด FWD MAXยังไง,user_ask_max_how_to_load
+โหลด FWD MAX,user_ask_max_how_to_load
+วิธีโหลดแอพ FWD MAX,user_ask_max_how_to_load
+Download App FWD MAX ต้องโหลดไงคะ,user_ask_max_how_to_load
+อยากรู้วิธีดาวน์โหลด แอพพลิเคชั่น FWDMAX,user_ask_max_how_to_load
+ขอรายละเอียดโหลดแอพ FWD MAX,user_ask_max_how_to_load
+วิธีโหลดแอป FWD MAX ยังไง,user_ask_max_how_to_load
+โหลดแอปพลิเคชัน FWD MAX,user_ask_max_how_to_load
+วิธีการโหลดแอปพลิเคชัน FWDMAX,user_ask_max_how_to_load
+อยากรู้วิธีโหลดแอป,user_ask_max_how_to_load
+จะโหลดแอปได้ยังไง,user_ask_max_how_to_load
+ลืมรหัสผ่าน FWD MAX,user_ask_max_forgot_password
+ลืม Password เอฟดับบลิวดี แมกซ์,user_ask_max_forgot_password
+ขอรหัสผ่าน FWD MAX,user_ask_max_forgot_password
+ลืมรหัส FWD MAX ต้องทำไง,user_ask_max_forgot_password
+ลืม Password แอพ FWD MAX,user_ask_max_forgot_password
+ลืมรหัสผ่านของFWDMAX ค่ะ,user_ask_max_forgot_password
+ลืมPassword เอฟดับบลิวดี แมกซ์ ต้องทำไงคะ,user_ask_max_forgot_password
+ขอรหัสผ่าน FWD MAX หน่อยครับ,user_ask_max_forgot_password
+ถ้าลืมรหัสผ่านของแอป FWDMAX ต้องทำไงคะ,user_ask_max_forgot_password
+ผมลืมรหัสผ่านของFWDMAXอะครับ,user_ask_max_forgot_password
+ลืมรหัสผ่านอ่ะ,user_ask_max_forgot_password
+ขอรหัสผ่านใหม่หน่อย,user_ask_max_forgot_password
+ลืมพาสเวิร์ดอ่ะ,user_ask_max_forgot_password
+ลืมรหัสผ่านทำไงดี,user_ask_max_forgot_password
+ขอรหัสผ่านใหม่หน่อยสิ,user_ask_max_forgot_password
+ขอรหัสผ่านใหม่ด้วยครับ,user_ask_max_forgot_password
+อยากเปลี่ยนเบอร์โทรศัพท์ของ FWD MAX ต้องทำไง,user_ask_max_change_phone
+เปลี่ยนเบอร์ใหม่ในแอป FWD MAX,user_ask_max_change_phone
+อยากสลับเบอร์ ของแอพ FWD MAX,user_ask_max_change_phone
+เปลี่ยนเบอร์ใหม่ในแอพทำยังไง,user_ask_max_change_phone
+เปลี่ยนเบอร์ FWD max ทำยังไง,user_ask_max_change_phone
+อยากเปลี่ยนเบอร์ในแอพสอนหน่อยค่ะ,user_ask_max_change_phone
+เปลี่ยนเบอร์ใน fwd max ยังไงหรอครับ,user_ask_max_change_phone
+อยากเปลี่ยนเบอร์โทรศัพท์ในแอพทำยังไง,user_ask_max_change_phone
+เปลี่ยนเบอร์โทรศัพท์ในแอพไม่ได้,user_ask_max_change_phone
+FWD MAX,user_ask_max_change_phone
+แอพ FWD,user_ask_max_change_phone
+แอพพลิเคชั่นของ FWD,user_ask_max_change_phone
+แอป FWD MAX,user_ask_max_change_phone
+แอพ FWD MAX ครับ,user_ask_max_change_phone
+App FWD MAX,user_ask_max_change_phone
+App FWD MAX คือไรอะครับ,user_ask_max_change_phone
+FWD MAX คืออะไร,user_ask_max_what_is
+แอป FWD MAX คืออะไร,user_ask_max_what_is
+แอพพลิเคชั่น FWD MAX,user_ask_max_what_is
+แอพ FWD MAX คือ,user_ask_max_what_is
+เอฟดับบลิวดี แมก คือ,user_ask_max_what_is
+เอฟดับบลิวดี แมกซ์ คือ,user_ask_max_what_is
+FWD MAX คืออะไร ครับ,user_ask_max_what_is
+แอป FWD MAX คืออะไร คับ,user_ask_max_what_is
+แอพพลิเคชั่น FWD MAX ค่ะ,user_ask_max_what_is
+แอพ FWD MAX คือไรอะคะ,user_ask_max_what_is
+เอฟดับบลิวดี แมก คืออะคับ,user_ask_max_what_is
+เอฟดับบลิวดี แมกซ์ คืออะครับ,user_ask_max_what_is
+FWD MAX,user_ask_max_what_is
+แอป FWDMAX,user_ask_max_what_is
+แอพพลิเคชั่น FWDMAX,user_ask_max_what_is
+แอปพลิเคชัน FWD MAX,user_ask_max_what_is
+แอพ FWD MAX ครับ,user_ask_max_what_is
+FWD MAX ค่ะ,user_ask_max_what_is
+FWDMaxครับ,user_ask_max_what_is
+FWDMAX,user_ask_max_what_is
+fwdmax คืออะไรครับ,user_ask_max_what_is
+fwdmax คืออะไรคะ,user_ask_max_what_is
+fwdmax คืออะไร,user_ask_max_what_is
+วิธีสมัครFWD MAX ต้องทำไง,user_ask_max_how_to_register
+อยากสมัครสมาชิก FWD MAX,user_ask_max_how_to_register
+ขอทราบวิธีการสม้คร FWD MAX ค่ะ,user_ask_max_how_to_register
+วิธีสมัครFWD MAX ต้องทำไงค่ะ,user_ask_max_how_to_register
+ต้องการสมัคร แอป FWDMAX,user_ask_max_how_to_register
+FWD MAX วิธีสมัครสมาชิก,user_ask_max_how_to_register
+วิธีลงทะเบียนของ FWDMAX,user_ask_max_how_to_register
+วิธีสมัครสมาชิกของ FWDMAX,user_ask_max_how_to_register
+ขอรายละเอียดวิธีสมัคร FWDMAX หน่อยคะ,user_ask_max_how_to_register
+วิธีสมัครสมาชิกของFWDMAX ต้องทำไงบ้างครับ,user_ask_max_how_to_register
+ขอรายละเอียดสมัครสมาชิกแอพ FWDMAX หน่อยครับ,user_ask_max_how_to_register
+อยากทราบข้อมูล Fwd max,user_ask_max_how_to_register
+อยากร่วมกิจกรรมทำไง,user_ask_max_how_to_register
+อยากเล่นกิจกรรมของแอป FWD MAX,user_ask_max_how_to_register
+วิธีเล่นแอป FWD MAX,user_ask_max_how_to_register
+อยากเล่นกิจกรรมของ FWD MAX,user_ask_max_how_to_register
+วิธีเล่นแอพ FWD MAX,user_ask_max_how_to_register
+วิธีการเล่น APP FWD MAX,user_ask_max_how_to_register
+อยากเล่นกิจกรรมของแอป FWD MAX ต้องทำอย่างไรครับ,user_ask_max_how_to_register
+วิธีเล่นแอป FWD MAX  ต้องทำไงครับ,user_ask_max_how_to_register
+อยากเล่นกิจกรรมของ FWD MAX ครับ,user_ask_max_how_to_register
+วิธีเล่นแอพ FWD MAX ครับ,user_ask_max_how_to_register
+วิธีการเล่น APP FWD MAX ครับ,user_ask_max_how_to_register
+อยากเล่นกิจกรรมของแอป FWD MAX คะ,user_ask_max_how_to_register
+วิธีเล่นแอป FWD MAX คะ,user_ask_max_how_to_register
+อยากเล่นกิจกรรมของ FWD MAX คะ,user_ask_max_how_to_register
+วิธีเล่นแอพ FWD MAX คะ,user_ask_max_how_to_register
+วิธีการเล่น APP FWD MAX คะ,user_ask_max_how_to_register
+อยากร่วมกิจกรรมของแอปพลิเคชัน FWD ทำไง,user_ask_max_how_to_register
+อยากร่วมกิจกรรมของแอปพลิเคชั่น FWD MAX ทำไงคับ,user_ask_max_how_to_register
+อยากเล่นกิจกรรม FWD MAX ต้องทำไง,user_ask_max_how_to_register
+อยากร่วมกิจกรรมของแอป FWD ทำไง,user_ask_max_how_to_register
+อยากร่วมกิจกรรม FWD MAX ทำไงคับ,user_ask_max_how_to_register
+อยากร่วมกิจกรรม app FWD ทำไง,user_ask_max_how_to_register
+อยากร่วมกิจกรรมของแอป FWD ทำไงครับ,user_ask_max_how_to_register
+อยากร่วมกิจกรรม FWD MAX ทำไงครับ,user_ask_max_how_to_register
+อยากร่วมกิจกรรม app FWD ทำไงครับ,user_ask_max_how_to_register
+อยากเล่นกิจกรรม FWD MAX ต้องทำไงครับ,user_ask_max_how_to_register
+อยากร่วมกิจกรรมของแอป FWD ทำไงคะ,user_ask_max_how_to_register
+อยากร่วมกิจกรรม FWD MAX ทำไงคะ,user_ask_max_how_to_register
+อยากร่วมกิจกรรม app FWD ทำไงคะ,user_ask_max_how_to_register
+อยากเล่นกิจกรรม FWD MAX ต้องทำไงคะ,user_ask_max_how_to_register
+วิธีเล่นแอป FWD MAX,user_ask_max_how_to_register
+วิธีเล่นแอพ FWD MAX,user_ask_max_how_to_register
+วิธีการเล่น APP FWD MAX,user_ask_max_how_to_register
+วิธีได้แต้มจาก FWD MAX,user_ask_max_how_to_gain_point
+อยากได้แต้ม FWD MAX,user_ask_max_how_to_gain_point
+วิธีได้แต้มจาก FWD MAX ครับ,user_ask_max_how_to_gain_point
+อยากได้แต้ม FWD MAX ค่ะ,user_ask_max_how_to_gain_point
+วิธีสะสมแต้ม FWDMAX,user_ask_max_how_to_gain_point
+สะสมแต้มของ แอปFWDMAX,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มของแอปพลิเคชัน FWDMAX,user_ask_max_how_to_gain_point
+แต้มของFWD MAX จะได้จากทางไหนบ้าง,user_ask_max_how_to_gain_point
+วิธีสะสมแต้ม FWD MAX หน่อยคะ,user_ask_max_how_to_gain_point
+แอพพลิเคชั่น FWDMAX ได้แต้มยังไง,user_ask_max_how_to_gain_point
+อยากได้แต้มเพิ่ม,user_ask_max_how_to_gain_point
+ได้แต้มจากไหน,user_ask_max_how_to_gain_point
+อยากเพิ่มแต้มต้องทำไง,user_ask_max_how_to_gain_point
+แต้มได้ยังไง,user_ask_max_how_to_gain_point
+วิธีเพิ่มแต้ม FWD MAX,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มของ FWD MAX ครับ,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มแอป FWD MAX ครับ,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มแอพ FWD MAX ครับ,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มแอปพลิเคชั่น FWD MAX ครับ,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มแอป FWD คะ,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มแอป FWD คะ,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มของ FWD MAX คะ,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มแอป FWD MAX คะ,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มแอพ FWD MAX คะ,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มแอปพลิเคชั่น FWD MAX คะ,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มแอป FWD,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มของ FWD MAX,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มแอป FWD MAX,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มแอพ FWD MAX,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มแอปพลิเคชั่น FWD MAX,user_ask_max_how_to_gain_point
+อยากได้แต้มเพิ่มต้องทำไงครับ,user_ask_max_how_to_gain_point
+อยากได้แต้มเพิ่มต้องทำไงคะ,user_ask_max_how_to_gain_point
+วิธีสะสมแต้มแอป FWD,user_ask_max_how_to_gain_point
+วิธีแลกสิทธิพิเศษ ของ FWD MAX,user_ask_max_how_to_redeem
+วิธีแลกของรางวัล FWD MAX,user_ask_max_how_to_redeem
+อยากแลกของรางวัลFWD MAXต้องทำไง,user_ask_max_how_to_redeem
+วิธีแลกสิทธิพิเศษ ของ FWD MAX คะ,user_ask_max_how_to_redeem
+วิธีแลกของรางวัล FWD MAX ครับ,user_ask_max_how_to_redeem
+อยากแลกของรางวัลFWD MAXต้องทำไงคะ,user_ask_max_how_to_redeem
+วิธีแลกสิทธิพิเศษ ของแอปFWD MAX คะ,user_ask_max_how_to_redeem
+วิธีแลกของรางวัล แอพพลิเคชั่น FWD MAX ครับ,user_ask_max_how_to_redeem
+อยากแลกของรางวัลของ APPFWD MAXต้องทำไงคะ,user_ask_max_how_to_redeem
+วิธีแลกของFWDMAX,user_ask_max_how_to_redeem
+มีของอะไรให้แลกบ้างครับ,user_ask_max_how_to_redeem
+จะแลกของอ่ะ,user_ask_max_how_to_redeem
+จะแลกของทำอย่างไร,user_ask_max_how_to_redeem
+จะแลกของ ทำยังงัย,user_ask_max_how_to_redeem
+แลกของยังไง,user_ask_max_how_to_redeem
+แลกของต้องทำอะไร,user_ask_max_how_to_redeem
+ต้องการแลกของรางวัล,user_ask_max_how_to_redeem
+ใช้สิทธิพิเศษ,user_ask_max_how_to_redeem
+แลกรางวัลยังไง,user_ask_max_how_to_redeem
+แลกของไงอะ,user_ask_max_how_to_redeem
+อยากแลกของครับ,user_ask_max_how_to_redeem
+จะแลกของรางวัลทำยังไงครับ,user_ask_max_how_to_redeem
+ต้องการแลกของรางวัล,user_ask_max_how_to_redeem
+ส่งเอกสารได้ที่ไหน,user_ask_where_to_submit_documents
+จะส่งเอกสารให้ได้ที่ไหน,user_ask_where_to_submit_documents
+มีหลักฐานต้องการส่งให้ FWD ต้องส่งเอกสารไปที่ไหนครับ,user_ask_where_to_submit_documents
+ยื่นเอกสารได้ที่ไหนครับ,user_ask_where_to_submit_documents
+อยากขับบีเอ็มต้องทำอย่างไร,user_ask_BMW
+กิจกรรมบีเอ็ม,user_ask_BMW
+ขับรถบีเอ็ม,user_ask_BMW
+ได้ไปขับรถบีเอ็มที่ไหน,user_ask_BMW
+ปีนี้กิจกรรมบีเอ็มไปไหน,user_ask_BMW
+bimmer อยากร่วมกิจกรรม,user_ask_BMW
+กิจกรรม bm,user_ask_BMW
+ขับรถนิวซีแลน,user_ask_BMW
+FWDxBMW Alpine xDrive New Zealand 2018,user_ask_BMW
+แคมเปน bm,user_ask_BMW
+แคมเปญ bmw x2,user_ask_BMW
+กิจกรรม bm x1,user_ask_BMW
+ขึ้นภูเขาภูเขาอัลไพ,user_ask_BMW
+งานบีเอ็ม,user_ask_BMW
+อยากรู้รายละเอียดเกี่ยวกับงานบีเอฺม,user_ask_BMW
+ร่วมสนุกกับกิจกรรมงานบีเอ็มได้อย่างไร,user_ask_BMW
+อยากไปขับรถที่นิวซีแลนต้องทำอย่างไร,user_ask_BMW
+ปีนี้กิจกรรมของบีเอ็มมีรายละเอียดอะไรบ้าง,user_ask_BMW
+กิจกรรมบีเอ็มเล่นตอนไหน,user_ask_BMW
+กิจกรรม bmw,user_ask_BMW
+ทดสอบ quick reply,test_quick_reply
+quick reply,test_quick_reply
+ทดสอบ,test_quick_reply
+location,location
+ขอโล,location
+โลเคชัน,location
+ส่งโล,location
+ขอโลเคชั่น,location
+โลเคชั่น,location
+rating,give_rating
+เรทติ้ง,give_rating
+ได้รับSMS sisler,User_ask_received_SMS_HBD
+ได้รับ SMS คูปอง Sizzler 100 บาท,User_ask_received_SMS_HBD
+เปิด SMS มาได้รับวอร์เชอร์ ซิสซ์เล่อ 100 บาท,User_ask_received_SMS_HBD
+ได้ SMS สุขสันต์วันเกิด คูปอง Sizzler,User_ask_received_SMS_HBD
+คูปอง Sizzler http://bit.ly/fwdbd2019  แลกยังไง,User_ask_received_SMS_HBD
+ได้ SMS สุขสันต์วันเกิดครับ คลิกที่นี่เพื่อรับคูปอง,User_ask_received_SMS_HBD
+สุขสันต์วันเกิดครับ คลิกที่นี่เพื่อรับคูปอง Sizzler http://bit.ly/fwdbd2019  แลกยังไง,User_ask_received_SMS_HBD
+วอร์เชอร์ ซิสซ์เล่อ 100 บาท หมดอายุเมื่อไหร่,User_ask_received_SMS_HBD
+ใช้วอร์เชอร์ยังไง ได้  sisler มา 100,User_ask_received_SMS_HBD
+แลก Sizzler ยังไง,User_ask_received_SMS_HBD
+ซิสเล่อ คูปอง 100 บาท ต้องแลกยังไง,User_ask_received_SMS_HBD
+อายุของคูปอง ซิสเล่อ มีอายุเท่าไรห่,User_ask_received_SMS_HBD
+วอร์เชอร์ ซิสสเล่อ ใช้ยังไง,User_ask_received_SMS_HBD
+Sizzler ต้องแลกยังไง,User_ask_received_SMS_HBD
+Sizzler ทำยังไง,User_ask_received_SMS_HBD
+็HBD วันเกิด ได้รับบัตรซิสเล่อ,User_ask_received_SMS_HBD
+วันเกิด ได้ SMS Sizzler,User_ask_received_SMS_HBD
+ได้แมสเซส สุขสันต์วันเกิด คลิกที่นี่เพื่อรับคูปอง Sizzler,User_ask_received_SMS_HBD
+คลิกที่รับคูปอง Sizzler,User_ask_received_SMS_HBD
+บัตร Sizzler วันเกิด SMS,User_ask_received_SMS_HBD
+วันเกิด ได้รับข้อความ  สุขสันต์วันเกิด คลิกที่นี่เพื่อรับคูปอง Sizzler,User_ask_received_SMS_HBD
+ได้รับข้อความวันเกิด 100 บาท ซิสเล่อ,User_ask_received_SMS_HBD
+ดีใจได้รับข้อความ SMS  sizzler 100 บาทต้องทำไง,User_ask_received_SMS_HBD
+บัตรซิสเล่อ หมดอายุเมื่อไหร่,User_ask_received_SMS_HBD
+Sizzler19,User_ask_received_SMS_HBD
+ซิสซ์เลอร์19,User_ask_received_SMS_HBD
+ซิสเลอร19,User_ask_received_SMS_HBD
+สนใจประกันซีไอ 50,new_entity_1981
+คุณให้คะแนนดีงาม,testchoices
+คุณให้คะแนนดี,testchoices
+คุณให้คะแนนก็ดีนะ,testchoices
+คุณให้คะแนนเฉยๆ,testchoices
+คุณให้คะแนนพอทน,testchoices
+คุณให้คะแนนไม่โอ,testchoices
+คุณให้คะแนนไม่เอา,testchoices

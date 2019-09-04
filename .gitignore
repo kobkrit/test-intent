@@ -1,8 +1,0 @@
-truevoice_data/
-*.csv
-/model
-/ft_data
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
-*.pkl
-*.xlsx
